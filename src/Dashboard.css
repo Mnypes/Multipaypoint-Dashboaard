@@ -1,0 +1,11 @@
+/* Dashboard.css */
+.image-container {
+    text-align: center; /* Center the image horizontally */
+    margin-top: 20px;   /* Adjust the top margin as needed */
+  }
+  
+  .image-container img {
+    max-width: 100%;     /* Ensure the image doesn't exceed its container width */
+    height: auto;        /* Maintain the image's aspect ratio */
+  }
+  
